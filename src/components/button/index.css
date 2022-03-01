@@ -1,0 +1,26 @@
+label {
+    color: #777;
+    float: left;
+    line-height: 32px;
+    width: 20%;
+}
+input {
+    display: block;
+    margin-bottom: 15px;
+    height: 32px;
+    border: none;
+    background-color: #f3f3f3;
+    width: 75%;
+}
+button {
+    display: block;
+    width: 150px;
+    height: 40px;
+    color: #eee;
+    border: none;
+    background: linear-gradient(to right,#207cca 0%,#9f58a3 100%);
+    background: -webkit-linear-gradient(to right,#207cca 0%,#9f58a3 100%);
+    border-radius: 45px;
+    box-shadow: 1px 4px 10px 1px #aaa;
+    margin: 30px auto;
+}
